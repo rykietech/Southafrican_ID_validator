@@ -14,7 +14,7 @@ resident;
 
 Using ID Number 8001015009087 as an example, it would read as follows: the ID indicates
 that a male citizen was born on 1 January 1980; he was the 10th male to be registered (assum-
-ing that the rst male to be registered on that day would be assigned the sequence number 5000).
+ing that the first male to be registered on that day would be assigned the sequence number 5000).
 Counting positions from 1 to 13 from left to right, the checksum digit is calculated using the
 Luhn algorithm as follows:
 
